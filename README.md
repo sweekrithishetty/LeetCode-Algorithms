@@ -1,2 +1,2 @@
 # LeetCode-Algorithms
-SQL solved questions from Leet Code
+Easy to Medium solved questions from Leet Code
