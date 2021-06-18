@@ -30,6 +30,7 @@ print(result)
 Input = "Hello"
 #It will reverse string in reverese  order 
 reveresed = reversed(Input)
+#now jin the list of caharacters without the space
 print(''.join(reveresed))
 
    
